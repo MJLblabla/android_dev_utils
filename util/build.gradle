@@ -7,7 +7,7 @@ android {
     compileSdkVersion depend.compileSdkVersion
 
     defaultConfig {
-        minSdkVersion depend.minSdkVersion
+        minSdkVersion 15
         targetSdkVersion depend.targetSdkVersion
 
         versionCode 1
