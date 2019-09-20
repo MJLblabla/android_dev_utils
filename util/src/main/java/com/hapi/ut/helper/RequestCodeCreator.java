@@ -1,4 +1,4 @@
-package com.pince.ut.helper;
+package com.hapi.ut.helper;
 
 public class RequestCodeCreator {
     private RequestCodeCreator() {

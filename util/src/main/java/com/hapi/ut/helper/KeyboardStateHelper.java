@@ -1,10 +1,10 @@
-package com.pince.ut.helper;
+package com.hapi.ut.helper;
 
 import android.graphics.Rect;
 import android.view.View;
 import android.view.ViewTreeObserver;
 
-import com.pince.ut.ScreenUtil;
+import com.hapi.ut.ScreenUtil;
 
 import java.util.LinkedList;
 import java.util.List;

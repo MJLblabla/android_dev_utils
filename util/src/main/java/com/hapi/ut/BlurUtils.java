@@ -1,4 +1,4 @@
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.annotation.TargetApi;
 import android.graphics.Bitmap;

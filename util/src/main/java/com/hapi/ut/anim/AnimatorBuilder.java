@@ -1,4 +1,4 @@
-package com.pince.ut.anim;
+package com.hapi.ut.anim;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;

@@ -1,4 +1,4 @@
-package com.pince.ut.safe;
+package com.hapi.ut.safe;
 
 import java.util.Collections;
 import java.util.HashMap;

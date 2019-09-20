@@ -1,8 +1,7 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'hapidepend'
 android {
     compileSdkVersion depend.compileSdkVersion
-    buildToolsVersion depend.buildToolsVersion
 
     defaultConfig {
         minSdkVersion depend.minSdkVersion

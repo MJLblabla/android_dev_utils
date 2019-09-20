@@ -1,4 +1,4 @@
-package com.pince.ut;
+package com.hapi.ut;
 
 /**
  * Created by athoucai on 8/17/16.

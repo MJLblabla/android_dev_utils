@@ -12,7 +12,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.annotation.SuppressLint;
 import android.app.Dialog;
@@ -37,7 +37,7 @@ import android.widget.GridView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
-import com.pince.ut.constans.Constants;
+import com.hapi.ut.constans.Constants;
 
 
 /**

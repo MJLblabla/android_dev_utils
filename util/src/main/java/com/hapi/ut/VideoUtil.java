@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.content.Context;
 import android.graphics.Bitmap;

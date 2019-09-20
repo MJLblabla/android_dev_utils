@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -39,7 +39,7 @@ import android.support.v4.graphics.drawable.DrawableCompat;
 import android.util.DisplayMetrics;
 import android.util.Log;
 
-import com.pince.ut.constans.Constants;
+import com.hapi.ut.constans.Constants;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

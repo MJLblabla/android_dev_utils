@@ -5,9 +5,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.pince.ut.AppCache;
-import com.pince.ut.AppUtil;
-import com.pince.ut.ScreenUtil;
+import com.hapi.ut.AppCache;
+import com.hapi.ut.AppUtil;
+import com.hapi.ut.ScreenUtil;
 import com.testMaven.R;
 
 public class MainActivity extends AppCompatActivity {

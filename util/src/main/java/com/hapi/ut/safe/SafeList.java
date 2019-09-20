@@ -1,4 +1,4 @@
-package com.pince.ut.safe;
+package com.hapi.ut.safe;
 
 import java.util.ArrayList;
 import java.util.Collections;

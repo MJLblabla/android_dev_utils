@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.annotation.SuppressLint;
 import android.app.ActivityManager;
@@ -25,12 +25,9 @@ import android.os.Environment;
 import android.os.StatFs;
 import android.support.annotation.WorkerThread;
 import android.text.TextUtils;
-import android.util.DisplayMetrics;
 import android.util.Log;
-import android.view.Display;
-import android.view.WindowManager;
 
-import com.pince.ut.constans.Constants;
+import com.hapi.ut.constans.Constants;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -39,7 +36,6 @@ import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.Method;
 import java.util.regex.Pattern;
 
 /**

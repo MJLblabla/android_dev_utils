@@ -1,4 +1,4 @@
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.Manifest;
 import android.app.Activity;
@@ -29,8 +29,8 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.webkit.MimeTypeMap;
 
-import com.pince.ut.constans.Constants;
-import com.pince.ut.helper.ActionResult;
+import com.hapi.ut.constans.Constants;
+import com.hapi.ut.helper.ActionResult;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package com.pince.ut.draw;
+package com.hapi.ut.draw;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -17,9 +17,9 @@ import android.text.style.RelativeSizeSpan;
 import android.text.style.StyleSpan;
 import android.view.View;
 
-import com.pince.ut.AppCache;
+import com.hapi.ut.AppCache;
 import com.pince.ut.R;
-import com.pince.ut.callback.Callback;
+import com.hapi.ut.callback.Callback;
 
 import java.util.ArrayList;
 import java.util.List;

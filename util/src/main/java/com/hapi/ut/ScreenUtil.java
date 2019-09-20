@@ -1,4 +1,4 @@
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.app.Activity;
 import android.content.Context;

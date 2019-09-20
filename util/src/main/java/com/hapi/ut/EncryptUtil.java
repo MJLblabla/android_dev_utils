@@ -1,4 +1,4 @@
-package com.pince.ut;
+package com.hapi.ut;
 
 import android.text.TextUtils;
 import android.util.Base64;

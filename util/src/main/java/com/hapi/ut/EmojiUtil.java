@@ -1,4 +1,4 @@
-package com.pince.ut;
+package com.hapi.ut;
 
 /**
  * @author athoucai

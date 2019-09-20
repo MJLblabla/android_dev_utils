@@ -1,4 +1,4 @@
-package com.pince.ut.draw;
+package com.hapi.ut.draw;
 
 import android.graphics.Color;
 import android.graphics.drawable.ClipDrawable;
@@ -10,7 +10,7 @@ import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.view.Gravity;
 
-import com.pince.ut.ColorUtils;
+import com.hapi.ut.ColorUtils;
 
 
 /**

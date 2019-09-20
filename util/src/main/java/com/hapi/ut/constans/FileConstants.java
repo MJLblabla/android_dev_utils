@@ -1,8 +1,8 @@
-package com.pince.ut.constans;
+package com.hapi.ut.constans;
 
 import android.app.Application;
 
-import com.pince.ut.DeviceUtil;
+import com.hapi.ut.DeviceUtil;
 
 /**
  * Created by czwathou on 2017/7/17.

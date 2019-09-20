@@ -1,4 +1,4 @@
-package com.pince.ut.constans;
+package com.hapi.ut.constans;
 
 /**
  * app全局变量，包含配置变量

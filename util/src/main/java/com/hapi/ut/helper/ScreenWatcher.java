@@ -1,4 +1,4 @@
-package com.pince.ut.helper;
+package com.hapi.ut.helper;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
