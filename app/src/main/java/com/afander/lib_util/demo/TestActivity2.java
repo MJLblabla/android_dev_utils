@@ -1,8 +1,8 @@
 package com.afander.lib_util.demo;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.hapi.ut.AppUtil;
 import com.testMaven.R;

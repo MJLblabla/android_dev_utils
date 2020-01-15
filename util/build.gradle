@@ -28,7 +28,6 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-
-    compileOnly depend.appcompat_v7()
-    compileOnly depend.rv_v7()
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    api depend.appcompat()
 }

@@ -23,7 +23,7 @@ import android.os.Build;
 import android.os.Debug;
 import android.os.Environment;
 import android.os.StatFs;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.WorkerThread;
 import android.text.TextUtils;
 import android.util.Log;
 
